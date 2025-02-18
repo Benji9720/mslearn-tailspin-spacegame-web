@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: PoolTest1
-  vmImage: 'windows-latest'
+  vmImage: 'macos-latest'
 
 variables:
   solution: '**/*.sln'
